@@ -45,7 +45,12 @@ Este projeto tem como objetivo explorar e analisar o catálogo da **Netflix**, u
 ## 🚀 Resultados alcançados
 - Identificação dos principais padrões no catálogo da Netflix.  
 - Insights sobre distribuição de gêneros, países e atores.  
-- Dashboard interativo que facilita a análise e a comunicação dos resultados.  
+- Dashboard interativo que facilita a análise e a comunicação dos resultados.
+
+<img width="891" height="495" alt="image" src="https://github.com/user-attachments/assets/ea3fe0f1-aec7-4b6a-b594-fae080262235" />
+
+
 
 
   
+
